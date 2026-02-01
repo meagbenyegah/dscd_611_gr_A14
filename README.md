@@ -5,6 +5,7 @@ Lightweight reproducible project for the Uber Request EDA assignment. This repos
 Repository layout
 
 - `data/` — source data: `Uber Request Data.csv`
+- `docs/` — project deliverables: project report (`Report_611_A14.pdf`) and presentation slides (`Presentation_611_A14.pptx`)
 - `notebooks/` — `uber_request_project.ipynb` (exploratory analysis with Markdown explanations)
 - `src/` — `uber_request_eda.py` (runnable script that saves plots)
 - `outputs/` — example generated PNG plots (not required to submit)
