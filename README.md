@@ -1,6 +1,6 @@
 # Uber Request EDA (DSCD_611 — Group A14)
 
-Lightweight reproducible project for the Uber Request EDA project. This repository contains the dataset, an exploratory notebook, a runnable script that produces the required answers and visualisations, and pinned dependencies for reproducibility.
+Lightweight, reproducible exploratory data analysis of Uber trip requests (DSCD_611 — Group A14). The repository includes the dataset (sourced from Kaggle — https://www.kaggle.com/datasets/anupammajhi/uber-request-data), a Jupyter notebook documenting the analysis, a runnable script that generates the required figures and answers, and pinned dependencies to reproduce the results.
 
 Repository layout
 
@@ -30,3 +30,5 @@ Notes
 
 - The script writes four PNG visualisations to the `--out` folder and prints concise answers to the four research questions.
 - Use `requirements_frozen.txt` for exact reproducibility; `requirements.txt` (if present) contains minimal, unpinned requirements.
+
+This repository uses the `Uber Request Data.csv` file (stored in the `data/` folder) as the chosen dataset for the assignment. The data for this project was obtained from Kaggle: "Uber Request Data" by `anupammajhi` — https://www.kaggle.com/datasets/anupammajhi/uber-request-data. Please refer to the Kaggle dataset page for full provenance and licensing details.
