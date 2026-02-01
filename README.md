@@ -1,6 +1,6 @@
 # Uber Request EDA (DSCD_611 — Group A14)
 
-Lightweight reproducible project for the Uber Request EDA assignment. This repository contains the dataset, an exploratory notebook, a runnable script that produces the required answers and visualisations, and pinned dependencies for reproducibility.
+Lightweight reproducible project for the Uber Request EDA project. This repository contains the dataset, an exploratory notebook, a runnable script that produces the required answers and visualisations, and pinned dependencies for reproducibility.
 
 Repository layout
 
